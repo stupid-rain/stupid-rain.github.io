@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={multiagent}
-          link="https://github.com/alicechen216/EML6930"
+          link="https://github.com/stupid-rain/EML6930"
           h3="Multi-Agnet"
           p="Robust Adaptive Control"
         />
@@ -24,13 +24,13 @@ function Projects() {
         />
         <ProjectCard
           src={system}
-          link="https://github.com/alicechen216/Fractional-Order-System-Identification-With-Occupation-Kernel-Regression"
+          link="https://github.com/stupid-rain/Fractional-Order-System-Identification-With-Occupation-Kernel-Regression"
           h3="System Identification"
           p="Fracational RKHS"
         />
         <ProjectCard
           src={scatter}
-          link="https://github.com/alicechen216/MAT6932"
+          link="https://github.com/stupid-rain/MAT6932"
           h3="Scattered Data Approximation"
           p="Franke Function"
         />

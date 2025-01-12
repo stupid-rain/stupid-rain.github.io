@@ -43,7 +43,7 @@ function Hero() {
             <a href="https://scholar.google.com/citations?user=TLM2V2EAAAAJ&hl=en" target="_blank">
             <img src={scholarIcon} alt="Google Scholar icon" />
           </a>
-          <a href="https://github.com/alicechen216" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/stupid-rain" target="_blank" rel="noopener noreferrer">
             <img src={githubIcon} alt="Github icon" />
           </a>
           <a href="https://www.linkedin.com/in/chenhaowei/" target="_blank" rel="noopener noreferrer">
